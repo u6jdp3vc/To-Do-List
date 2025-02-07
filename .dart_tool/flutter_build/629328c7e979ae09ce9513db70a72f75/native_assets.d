@@ -1,0 +1,1 @@
+ C:\\dev\\Task-App-Sqflite-Flutter\\.dart_tool\\flutter_build\\629328c7e979ae09ce9513db70a72f75\\native_assets.yaml: 
